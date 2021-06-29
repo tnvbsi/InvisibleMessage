@@ -1,5 +1,6 @@
 # InvisibleMessage
 (Sorry for my js shitcode)\
+When it says "Success", the text is copying to the clipboard.\ 
 How to install:\
 1.Install [node.js](https://nodejs.org/)\
 2.Run install.bat (Installs modules)\
