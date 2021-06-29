@@ -1,5 +1,5 @@
 # InvisibleMessage
-How to use:
+How to use:\
 1.[Install node.js (this text is clickable)](https://nodejs.org/)\
 2.Run install.bat (Installs modules)\
 3.Run start.bat\
